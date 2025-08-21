@@ -1,0 +1,202 @@
+[
+  {
+    "uuid": "1",
+    "rank": 1,
+    "name": "Binance",
+    "iconUrl": "/logos/binance.png",
+    "volume": 1234567890,
+    "numberOfMarkets": 1500,
+    "marketShare": 25.5,
+    "description": "Binance is the largest crypto exchange by trading volume."
+  },
+  {
+    "uuid": "2",
+    "rank": 2,
+    "name": "Coinbase",
+    "iconUrl": "/logos/coinbase.png",
+    "volume": 654321000,
+    "numberOfMarkets": 800,
+    "marketShare": 12.3,
+    "description": "Coinbase is a US-based crypto exchange popular for beginners."
+  },
+  {
+    "uuid": "3",
+    "rank": 3,
+    "name": "Kraken",
+    "iconUrl": "/logos/kraken.png",
+    "volume": 432100000,
+    "numberOfMarkets": 500,
+    "marketShare": 8.7,
+    "description": "Kraken is known for security and a wide range of assets."
+  },
+  {
+    "uuid": "4",
+    "rank": 4,
+    "name": "KuCoin",
+    "iconUrl": "/logos/kucoin.png",
+    "volume": 321000000,
+    "numberOfMarkets": 400,
+    "marketShare": 6.2,
+    "description": "KuCoin offers a huge variety of altcoins with global reach."
+  },
+  {
+    "uuid": "5",
+    "rank": 5,
+    "name": "Bitfinex",
+    "iconUrl": "/logos/bitfinex.png",
+    "volume": 278000000,
+    "numberOfMarkets": 350,
+    "marketShare": 5.1,
+    "description": "Bitfinex is known for advanced trading features and liquidity."
+  },
+  {
+    "uuid": "6",
+    "rank": 6,
+    "name": "Huobi",
+    "iconUrl": "/logos/huobi.png",
+    "volume": 250000000,
+    "numberOfMarkets": 320,
+    "marketShare": 4.7,
+    "description": "Huobi is a global exchange with a large Asian user base."
+  },
+  {
+    "uuid": "7",
+    "rank": 7,
+    "name": "OKX",
+    "iconUrl": "/logos/okx.png",
+    "volume": 240000000,
+    "numberOfMarkets": 300,
+    "marketShare": 4.2,
+    "description": "OKX is a major exchange offering derivatives and spot trading."
+  },
+  {
+    "uuid": "8",
+    "rank": 8,
+    "name": "Gemini",
+    "iconUrl": "/logos/gemini.png",
+    "volume": 210000000,
+    "numberOfMarkets": 250,
+    "marketShare": 3.9,
+    "description": "Gemini is a US-regulated exchange with strong compliance."
+  },
+  {
+    "uuid": "9",
+    "rank": 9,
+    "name": "Gate.io",
+    "iconUrl": "/logos/gateio.png",
+    "volume": 195000000,
+    "numberOfMarkets": 220,
+    "marketShare": 3.5,
+    "description": "Gate.io offers a wide range of tokens and trading products."
+  },
+  {
+    "uuid": "10",
+    "rank": 10,
+    "name": "Bitstamp",
+    "iconUrl": "/logos/bitstamp.png",
+    "volume": 180000000,
+    "numberOfMarkets": 180,
+    "marketShare": 3.1,
+    "description": "Bitstamp is one of the oldest crypto exchanges, based in Europe."
+  },
+  {
+    "uuid": "11",
+    "rank": 11,
+    "name": "Bybit",
+    "iconUrl": "/logos/bybit.png",
+    "volume": 160000000,
+    "numberOfMarkets": 170,
+    "marketShare": 2.8,
+    "description": "Bybit is popular for futures and perpetual contract trading."
+  },
+  {
+    "uuid": "12",
+    "rank": 12,
+    "name": "Crypto.com",
+    "iconUrl": "/logos/crypto.com.png",
+    "volume": 150000000,
+    "numberOfMarkets": 160,
+    "marketShare": 2.6,
+    "description": "Crypto.com provides an exchange and a popular crypto debit card."
+  },
+  {
+    "uuid": "13",
+    "rank": 13,
+    "name": "Poloniex",
+    "iconUrl": "/logos/poloniex.png",
+    "volume": 140000000,
+    "numberOfMarkets": 140,
+    "marketShare": 2.4,
+    "description": "Poloniex is an established exchange with diverse assets."
+  },
+  {
+    "uuid": "14",
+    "rank": 14,
+    "name": "Bittrex",
+    "iconUrl": "/logos/bittrex.png",
+    "volume": 130000000,
+    "numberOfMarkets": 130,
+    "marketShare": 2.3,
+    "description": "Bittrex is a US-based exchange focused on regulatory compliance."
+  },
+  {
+    "uuid": "15",
+    "rank": 15,
+    "name": "Deribit",
+    "iconUrl": "/logos/deribit.png",
+    "volume": 120000000,
+    "numberOfMarkets": 100,
+    "marketShare": 2.0,
+    "description": "Deribit is a leader in crypto options and derivatives trading."
+  },
+  {
+    "uuid": "16",
+    "rank": 16,
+    "name": "Upbit",
+    "iconUrl": "/logos/upbit.png",
+    "volume": 110000000,
+    "numberOfMarkets": 90,
+    "marketShare": 1.9,
+    "description": "Upbit is South Korea’s largest exchange."
+  },
+  {
+    "uuid": "17",
+    "rank": 17,
+    "name": "FTX",
+    "iconUrl": "/logos/ftx.png",
+    "volume": 100000000,
+    "numberOfMarkets": 80,
+    "marketShare": 1.7,
+    "description": "FTX was a major exchange known for derivatives trading."
+  },
+  {
+    "uuid": "18",
+    "rank": 18,
+    "name": "Liquid",
+    "iconUrl": "/logos/liquid.png",
+    "volume": 95000000,
+    "numberOfMarkets": 75,
+    "marketShare": 1.6,
+    "description": "Liquid is a Japan-based crypto exchange."
+  },
+  {
+    "uuid": "19",
+    "rank": 19,
+    "name": "Probit",
+    "iconUrl": "/logos/probit.png",
+    "volume": 85000000,
+    "numberOfMarkets": 70,
+    "marketShare": 1.4,
+    "description": "Probit is known for global accessibility and altcoin listings."
+  },
+  {
+    "uuid": "20",
+    "rank": 20,
+    "name": "ZB.com",
+    "iconUrl": "/logos/zb.png",
+    "volume": 75000000,
+    "numberOfMarkets": 65,
+    "marketShare": 1.2,
+    "description": "ZB.com is a China-based exchange serving global traders."
+  }
+]
